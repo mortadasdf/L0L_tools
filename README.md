@@ -26,7 +26,6 @@ Experience the tool firsthand to explore all of its amazing features.
 Before you begin, ensure you have met the following requirements:
 Python 3.10+ installed on your system.
 Git installed to clone the repository.
-1. **استنساخ المستودع:**
    ```bash
   git clone https://github.com/mortadasdf/L0L_tools.git
   cd L0L_Tools 
