@@ -30,3 +30,4 @@ Git installed to clone the repository.
   git clone https://github.com/mortadasdf/L0L_tools.git
   cd L0L_Tools 
   python3 Sargon\ Eye.py  (to the run)
+. 
